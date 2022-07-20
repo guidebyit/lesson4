@@ -1,0 +1,20 @@
+div{
+	width:200px;
+	height:100px;
+	border: solid 1px grey;
+	padding:10px;
+	margin:10px;
+	background-color: green;
+}
+span{
+	border: solid 1px grey;
+}
+td, th{
+	border: solid 5px black;
+	padding: 15px;
+	margin: 15px;
+}
+table{
+	border: solid 2px black;
+	margin-bottom: 50px;
+}
